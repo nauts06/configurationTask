@@ -1,0 +1,22 @@
+
+.flex{
+  display: flex;
+}
+.line{
+  width: 2px;
+  border: solid 2px black;
+}
+.width{
+  width: 400px;
+ margin-left: 15px;
+}
+.center{
+  margin-left: 100px;
+}
+.fl{
+  display: flex;
+}
+.wi{
+  width: 121px;
+  
+}
